@@ -83,10 +83,10 @@ author:
   name             : "Rakoon Piyanontalee"
   avatar           : "profile.jpg"
   bio              : "Assistant Research Professor"
-  location         : "The Pennsylvania State University, School of Labor and Employment Relations"
+  location         : "Penn State University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=1c9B_20AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
