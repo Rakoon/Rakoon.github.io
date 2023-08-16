@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Discharges, poor-performer quits, and layoffs as valued exits: Is it really addition by subtraction?"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink:
+date: 2020-01
+venue: 'Annual Review of Organizational Psychology and Organizational Behavior'
+paperurl: 'https://www.annualreviews.org/doi/full/10.1146/annurev-orgpsych-012119-045343'
+citation: 'Trevor, C.O., Piyanontalee, R. (2020). &quot;Discharges, Poor-Performer Quits, and Layoffs as Valued Exits: Is It Really Addition by Subtraction?.&quot; <i>Annual Review of Organizational Psychology and Organizational Behavior</i>. 7:181-211. https://doi.org/10.1146/annurev-orgpsych-012119-045343'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
