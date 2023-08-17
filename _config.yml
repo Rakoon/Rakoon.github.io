@@ -84,37 +84,13 @@ author:
   avatar           : "profile.jpg"
   bio              : "Assistant Research Professor"
   employer         : "Penn State University"
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1c9B_20AAAAJ&hl=en"
-  email            :
+  email            : "rbp5475@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "Rakoon"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
