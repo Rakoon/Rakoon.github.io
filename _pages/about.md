@@ -18,18 +18,23 @@ Below are my research projects and their 1-sentence summaries.
 ### Temporal Patterns of Collective Voluntary Turnover Surrounding Bonus Payments
 -	People wait to collect their bonuses before quitting the company, so time your payments accordingly.
 -	2021 Best Student Convention Paper Award - Academy of Management, HR Division
+
 ### Institutions, Economies, and Downsizing: Evidence across Time and Countries
 - Institutional constraints imposed by employment laws may weaken during economic crises.
+
 ### Discharges, Poor-Performer Quits, and Layoffs as Valued Exits: Is It Really Addition by Subtraction?
 -	Firing, poor-performer quitting, and layoffs are typically seen as beneficial for the company, but this may not necessarily be so. 
+
 ### Cultural Values as Predictors of Congruence between Employee and Supervisor HR Strength Perceptions
 -	Cultural values like power distance, collectivism, and uncertainty avoidance can help predict when employees are more likely to see eye-to-eye with their supervisors regarding HR practices
+
 ### Turnover and its Anti-Unionization Effect
 -	We tend to think of unions as reducing employee turnover, but turnover can also prevent unionization in the first place.
 
 ## Team Effectiveness
 ### Talent Dispersion within Teams
 - Given limited resources, should you build a team with a star employee surrounded by less capable teammates or a team of moderately capable members?
+
 ### The Strategic Core Team Role: Emergence, Mechanisms, And Future Research Directions
 - What exactly is the strategic core role, how does it comes about, and why does it affects team performance?
 
