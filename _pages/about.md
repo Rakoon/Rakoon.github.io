@@ -26,6 +26,7 @@ The relationship between bonuses and voluntary turnover is far from simple becau
 -	[2021 Best Student Convention Paper Award - Academy of Management, HR Division](https://hr.aom.org/awards/previous-award-winners)
 
 ### Institutions, Economies, and Downsizing: Evidence across Time and Countries
+with Elaine Farndale and Chris Brewster
 <details>
 	<summary>Abstract</summary>
 
@@ -34,6 +35,10 @@ Downsizing is a legitimate yet disruptive human resource management (HRM) practi
  </details>
 
 ### Discharges, Poor-Performer Quits, and Layoffs as Valued Exits: Is It Really Addition by Subtraction?
+with Charlie Trevor
+
+*The Annual Review of Organizational Psychology and Organizational Behavior*, 2020
+
 <details>
 	<summary>Abstract</summary>
 
@@ -42,6 +47,7 @@ We contend that a variety of types of employee exits from the firm are presumed 
  </details>
 
 ### Cultural Values as Predictors of Congruence between Employee and Supervisor HR Strength Perceptions
+with Elaine Farndale, Gaye Özçelik, Dora Roumpi, and Dorra Yahiaoui
 <details>
 	<summary>Abstract</summary>
 
@@ -50,6 +56,7 @@ Since employee perceptions of human resource management (HRM) can differ from th
  </details>
 
 ### Turnover and its Anti-Unionization Effect
+with Charlie Trevor
 <details>
 	<summary>Abstract</summary>
 
@@ -60,6 +67,7 @@ Yet, there is some sentiment that a high-turnover environment is problematic for
 
 ## 2. Team Effectiveness
 ### Talent Dispersion within Teams
+with Tiffany Trzebiatowski and Charlie Trevor
 - Given limited resources, should you build a team with a star employee surrounded by less capable teammates or a team of moderately capable members?
 
 ### The Strategic Core Team Role: Emergence, Mechanisms, And Future Research Directions
@@ -72,6 +80,7 @@ Humphrey, Morgeson, & Mannor, (2009) advanced our understanding of team composit
  
 ## 3. Research Methods
 ### Mediation Research: Drawing Valid and Complete Inferences
+with Jasmine Feng, Mevan Jayasinghe, and Barry Gerhart
 <details>
 	<summary>Abstract</summary>
 
