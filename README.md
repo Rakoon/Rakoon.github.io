@@ -3,6 +3,7 @@
 2. Edit which tabs are visible via [**navigation.yml**](https://github.com/Rakoon/Rakoon.github.io/blob/master/_data/navigation.yml)
 3. Edit contents of specific tabs via [**_pages**](https://github.com/Rakoon/Rakoon.github.io/tree/master/_pages)
 4. CVs are in [**files**](https://github.com/Rakoon/Rakoon.github.io/tree/master/files)
+5. [Markdown cheatsheet](https://github.com/mnyrop/nycdh-jekyll/blob/master/docs/markdown-cheatsheet.md)
 
 ### Jay Rob Williams' Tutorials
 - Building an Academic Website
