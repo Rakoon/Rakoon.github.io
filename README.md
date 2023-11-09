@@ -21,6 +21,7 @@ Adding RShiny Dashboard
 - https://rstudio.github.io/shinydashboard/index.html
 
 Other Example profile pages
+- https://asjadnaqvi.github.io/
 - https://leiy.me/
 - https://adamdad.github.io/
 - https://camilleleclerc.github.io/ 
