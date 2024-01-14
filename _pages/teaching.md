@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-I consider teaching to be one of the most meaningful activity that I engage in. This is because teaching not only provides a platform for knowledge dissemination, but it also serves as a constant reminder to revaluate my own understanding of the world.
+I consider teaching to be one of the most meaningful activities that I engage in. This is because teaching not only provides a platform for knowledge dissemination, but it also serves as a constant reminder to revaluate my own understanding of the world.
 
 ## The Pennsylvania State University, School of Labor and Employment Relations
 - LHR 312: Research Methods (Undergraduate)
