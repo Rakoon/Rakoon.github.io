@@ -70,14 +70,6 @@ Yet, there is some sentiment that a high-turnover environment is problematic for
 with Tiffany Trzebiatowski and Charlie Trevor
 - Given limited resources, should you build a team with a star employee surrounded by less capable teammates or a team of moderately capable members?
 
-### The Strategic Core Team Role: Emergence, Mechanisms, And Future Research Directions
-<details>
-	<summary>Abstract</summary>
-
-Humphrey, Morgeson, & Mannor, (2009) advanced our understanding of team composition by showing how attributes of strategic core team members exert outsized influence on team effectiveness compared to the those of less-core members. Since then, the number of works on the strategic core has risen steadily, but the theoretical explication of the construct has remained rudimentary. Some scholars have treated the strategic core interchangeably with related concepts like social network cores, thereby potentially contributing to construct contamination. Further, what remains unexplored are the questions of how the strategic core roles come about, which team members are more or less likely to occupy these roles, and what is the mechanism underlying the strategic core’s influence. Thus, the goal of this article is to: (1) extend the work of Humphrey et al. (2009) by comparing the strategic core with other related constructs, (2) present two ways in which the strategic core role can emerge, (3) use the ability-motivation-opportunity framework to explain how and why the strategic core wields outsized influence over team effectiveness, and (4) offer a series of theoretical and empirical suggestions for future research.
-
- </details>
- 
 ## 3. Research Methods
 ### Mediation Research: Drawing Valid and Complete Inferences
 with Jasmine Feng, Mevan Jayasinghe, and Barry Gerhart
