@@ -12,7 +12,7 @@ I am an assistant research professor in the School of Labor and Employment Relat
 
 Prior to joining Penn State, I received my Ph.D. from the University of Wisconsin-Madison and my Bachelor of Science in Psychology from the University of Illinois, Urbana-Champaign. Before academia, I also worked in HR recruitment and organizational development in Bangkok, Thailand.
 
-Below are my research projects and their abstracts.
+Below are my research projects and their abstracts (click to display).
 
 ## 1. Strategic and International HRM
 ### Temporal Patterns of Collective Voluntary Turnover Surrounding Bonus Payments
