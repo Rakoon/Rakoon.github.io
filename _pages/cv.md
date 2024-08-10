@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/CV_Piyanontalee_2024-06.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/CV_Piyanontalee_2024-07.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
