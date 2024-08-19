@@ -11,3 +11,7 @@ I strongly recommend using your Penn State email because personal email addresse
 ## Current open project(s):
   - International HRM meta-database
     - We are creating a centralized resource for IHRM scholars to locate databases with pertinent key variables, access instructions, and works published using these data. Presently, we have examined 1,900+ research papers from leading international business and HRM journals and identified 169 unique datasets. The next step is to compile their metadata.
+    - Skills you’ll gain:
+    1.	Understanding of what topics are being surveyed in HRM research.
+    2.	Understanding of archival datasets and metadata info (e.g., time period, unit of analysis)
+    3.	Working collaboratively on spreadsheets and related project management experiences.
