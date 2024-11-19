@@ -12,7 +12,7 @@ I am an assistant research professor in the School of Labor and Employment Relat
 
 Prior to joining Penn State, I received my Ph.D. from the University of Wisconsin-Madison and my Bachelor of Science in Psychology from the University of Illinois, Urbana-Champaign. Before academia, I also worked in HR recruitment and organizational development in Bangkok, Thailand.
 
-Below are my research projects and their abstracts (click to display).
+Below are research projects that I am working on (click to display abstracts). For completed projects, please see the [**Publications**](https://rakoon.github.io/publications/) tab.
 
 ## 1. Strategic and International HRM
 ### Temporal Patterns of Collective Voluntary Turnover Surrounding Bonus Payments
@@ -22,28 +22,8 @@ Below are my research projects and their abstracts (click to display).
 The relationship between bonuses and voluntary turnover is far from simple because not only do bonuses influence the likelihood of turnover occurring, but also the timing at which they occur. Conventional beliefs suggest that bonuses help reduce the level of voluntary turnover; however, there are theoretical bases suggesting that such behaviors may simply be delayed, only to reemerge en masse. The current study investigates voluntary turnover patterns surrounding multiple bonus pay periods in a call center context where some workers receive annual bonuses while others do not. This creates an opportunity for a quasi-experimental research design with enhanced degree of internal validity. Consistent the temporal discounting framework, results from interrupted time-series analyses show that voluntary turnover decreases as bonus payout approaches and that turnover increases significantly post-bonus. Thus, the timing of bonus pay and its relationship with outcomes of interests should be carefully considered when designing compensation schemes.
 
 </details>
+
 -	[2021 Best Student Convention Paper Award - Academy of Management, HR Division](https://hr.aom.org/awards/previous-award-winners)
-
-### Institutions, Economies, and Downsizing: Evidence across Time and Countries
-with Elaine Farndale and Chris Brewster
-<details>
-	<summary>Abstract</summary>
-
-Downsizing is a legitimate yet disruptive human resource management (HRM) practice that organisations can activate when costs need to be cut. We adopt an institutionalist lens to explore how both legislative and economic forces combine to shape organisations’ adoption of employee downsizing practices. Using multilevel mixed-effects ordered probit regression, we analyse survey data on HRM practices from 29 countries and four rounds of research data spanning seventeen years. The findings indicate that variations in downsizing practices can be partly explained by differences in national legal institutions as well as by prevailing economic conditions. Importantly, we also find that constraints imposed by national regulatory institutions may be relaxed during periods of crises. We theorise the interaction of coercive, mimetic and normative isomorphic effects to understand how organisational operating contexts are not fixed and organisational constraints can vary over time.
-
- </details>
-
-### Discharges, Poor-Performer Quits, and Layoffs as Valued Exits: Is It Really Addition by Subtraction?
-with Charlie Trevor
-
-*The Annual Review of Organizational Psychology and Organizational Behavior*, 2020
-
-<details>
-	<summary>Abstract</summary>
-
-We contend that a variety of types of employee exits from the firm are presumed to be a net positive and are thus valued by management, resulting in a potentially important new way to think about these leavers. For each of three valued exit (VE) types (discharges, poor-performer quits, and layoffs) we examine incidence, construct similarities and differences, and antecedents. We also summarize and critique the literature on VE consequences for the organization. In doing so we discuss how an underlying tension must accompany the analysis of VEs. Specifically, the intuitive notion of addition by subtraction must be considered relative to important contextual considerations and to evidence that the operational disruption created by VE departures may at times mitigate or even outweigh the VE benefits. Underlying our analysis is the stipulation that the formal consideration of VEs is in its infancy and is thus laden with conceptual and methodological challenges that scholars must address if we are to benefit from this new approach to employee exits from the firm.
-
- </details>
 
 ### Cultural Values as Predictors of Congruence between Employee and Supervisor HR Strength Perceptions
 with Elaine Farndale, Gaye Özçelik, Dora Roumpi, and Dorra Yahiaoui
