@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rak's Page"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Rakoon Piyanontalee"
 description              : &description "Assistant Research Professor"
