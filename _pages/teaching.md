@@ -11,7 +11,7 @@ I consider teaching to be one of the most meaningful activities that I engage in
 - HRER 512: Research Methods (Master's)
     - Fall 2022. In-person
 - LHR 403: International Human Resource Studies (Undergraduate)
-    - Spring 2024. In-person
+    - Spring 2024, 2025. In-person
 
 ## University of Wisconsin-Madison
 - MHR 300: Managing Organizations (Undergraduate)
