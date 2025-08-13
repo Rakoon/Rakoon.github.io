@@ -16,4 +16,4 @@ Journal of Human Resource Management_. [**[Link to full text]**](https://doi.org
 * Cranet Executive Report on International Human Resource Management: Summary and Analysis of 2021-2022 Survey Data [**[Link to full text]**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4647015)
 
 ---
-You can also find my articles on [my Google Scholar profile.](https://scholar.google.com/citations?user=1c9B_20AAAAJ&hl=en)
+You can also find my articles on [Google Scholar.](https://scholar.google.com/citations?user=1c9B_20AAAAJ&hl=en)
