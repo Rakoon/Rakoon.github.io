@@ -8,9 +8,9 @@ Note: I am happy to teach the required softwares if you are willing to learn.
 ### Survey Sample Representativeness Evaluation
 - Description: The goal is to check whether our sample of businesses in different countries looks like the overall business population in terms of industry, firm size, and sector. In other words, we want to find out whether some types of businesses are over- or under-represented.
 - Tasks:
-  1. Compare the survey distribution to the official population distribution, and identify where our survey over- or under-represents certain types of firms based on industry, size, and sector.
-  2. Create clear tables / figures to show how closely our sample matches the population.
-  3. (Optional/advanced) Learn simple statistical checks to formally test how close the survey is to the population, and help suggest ways to improve or weight the sample.
+  1. Compare the survey distribution to the official census distribution, and identify where our survey over- or under-represents certain types of firms based on industry, size, and sector.
+  2. Create tables / figures to show how closely our sample matches the population.
+  3. (Optional/advanced) Learn the statistical method to test how close the survey is to the population (specifically, the Chi-squared goodness-of-fit test).
 - Skills: Data visualization and analysis. Communicating your findings.
 - Softwares: MS Excel or Google Sheets.
 - (Optional/advanced softwares): R or Stata
