@@ -2,8 +2,8 @@
 permalink: /students/
 title: "Students"
 ---
-If you are interested in acquiring research experience, [**please download and fill out this application, then email me**](https://pennstateoffice365.sharepoint.com/:w:/s/CenterForInternationalHRStudies/EaRoFVvHfZpKoXP7c12fDTkBq3mSl5jYCQ5iymdRqcYH5A?e=8WBrRk) at **rbp5475@psu.edu** using the **subject “Student Research Application”**.
-Note: I am happy to teach the required softwares if you are willing to learn.
+Those interested in acquiring research experience, [**please download and fill out this application, then email me**](https://pennstateoffice365.sharepoint.com/:w:/s/CenterForInternationalHRStudies/EaRoFVvHfZpKoXP7c12fDTkBq3mSl5jYCQ5iymdRqcYH5A?e=8WBrRk) at **rbp5475@psu.edu** using the subject “Student Research Application”.
+Note: You need not possess the skills / softwares experience listed below. I am happy to teach if you are willing to learn.
 
 ### Survey Sample Representativeness Evaluation
 - Description: The goal is to check whether our sample of businesses in different countries looks like the overall business population in terms of industry, firm size, and sector. In other words, we want to find out whether some types of businesses are over- or under-represented.
