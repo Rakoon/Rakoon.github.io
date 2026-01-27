@@ -5,7 +5,7 @@ title: "Publications"
 ## Peer-Reviewed Journal Articles
 
 * Piyanontalee, R., Farndale, E., & Brewster, C., (2025). Institutions, economies and downsizing: evidence across time and countries. _The International
-Journal of Human Resource Management_. [**[Link to full text]**](https://doi.org/10.1080/09585192.2024.2428343)
+Journal of Human Resource Management_, 36(12), 2118-2148. [**[Link to full text]**](https://doi.org/10.1080/09585192.2024.2428343)
 
 * Farndale, E., Horak, S., Piyanontalee, R., Puffer, S., & Vidović, M. (2025). Looking back to look forward: Disruption, innovation and future trends in international human resource management. _International Business Review_, 34(1). [**[Link to full text]**](https://doi.org/10.1016/j.ibusrev.2024.102362)
 
