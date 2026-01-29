@@ -1,13 +1,7 @@
 ---
-permalink: /materials/
-title: "Materials"
+permalink: /replications/
+title: "Replications"
 ---
-
-## Presentation slides
-
-- [**Methodological challenges and prospects in working with international HRM datasets**](https://github.com/Rakoon/Rakoon.github.io/blob/master/files/slides/Piyanontalee_2024_AOM_IHRM-Methods_2024-08-13.pdf)
-  - In Farndale, E. (Chair) “Comparative Human Resource Management: Extending Beyond National Comparisons. Panel Symposium presented at the 2024 Academy of Management Annual Meeting. Chicago, IL.
-
 
 ## Selected code and data from my research projects.
 
