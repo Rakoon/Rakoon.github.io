@@ -1,0 +1,4 @@
+Access the demo page via:
+  https://rakoon.github.io/ihrm-db/
+
+Update by copying the `IHRM_DB_Metadata.html` from the `_IHRM-MetaData` Github Repo and then renaming it `index.html`. Once done, replace the current `index.html` in this folder.
