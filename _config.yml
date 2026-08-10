@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rakoon Piyanontalee"
   avatar           : "profile.jpg"
-  bio              : "Assistant Research Professor"
-  employer         : "Penn State University"
+  bio              : "Assistant Professor"
+  employer         : "The College of New Jersey"
   googlescholar    : "https://scholar.google.com/citations?user=1c9B_20AAAAJ&hl=en"
-  email            : "rbp5475@psu.edu"
+  email            : "piyanonr@tcnj.edu"
   github           : "Rakoon"
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/rakoon-piyanontalee-137b6169/"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
 
 # Reading Files
