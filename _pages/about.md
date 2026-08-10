@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant research professor in the School of Labor and Employment Relations at Penn State. My research focuses on the adoption and effect of Human Resource Management (HRM) practices on workers and organizations. My current projects focus on compensation, turnover, and cross-cultural management. Additionally, I am affiliated with the [**Center for International Human Resource Studies**](https://ler.la.psu.edu/cihrs/) where I help manage the [**CRANET**](https://cranet.la.psu.edu/) dataset along with organizing the biennial [**Global Conference on IHRM**](https://ler.la.psu.edu/cihrs/ihrmconference/). The next conference will be held in May 2016 at the University of Cyprus.
+I am an assistant professor in the School of Business at The College of New Jersey (TCNJ). I teach Human Resource Management (HRM) and cross-cultural management courses. My research focuses on the adoption and effect of HRM practices on workers and organizations, specifically on topics of compensation, turnover, and downsizing.
 
-Prior to joining Penn State, I received my Ph.D. from the University of Wisconsin-Madison and my Bachelor of Science in Psychology from the University of Illinois, Urbana-Champaign. Before academia, I also worked in HR recruitment and organizational development in Bangkok, Thailand.
+Prior to joining TCNJ, I worked at Penn State University, School of Labor and Employment Relations. I received my Ph.D. from the University of Wisconsin-Madison and my Bachelor of Science in Psychology from the University of Illinois, Urbana-Champaign. Before academia, I also worked in HR recruitment and organizational development in Bangkok, Thailand.
 
 Below are research projects that I am working on (click to display abstracts). For completed projects, please see the [**Publications**](https://rakoon.github.io/publications/) tab.
 
