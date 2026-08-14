@@ -2,6 +2,6 @@
 permalink: /students/
 title: "Students"
 ---
-The research project application period for spring 2026 has closed.
 I will periodically post new research opportunities here. 
-If you are interested in acquiring research experience, please check again during fall 2026.
+
+The TCNJ Research Assistant (RA) program provides a win-win opportunity for students and faculty to collaborate. Faculty benefit from a paid assistant, while students benefit from hands-on research experience and up to 100 hours of paid student employment for the semester. RAs are expected to participate in Celebration of Student Achievement in the Spring to share about their research activities or present to the department or in a group setting, as appropriate. RAs are for one semester - fall or spring.
