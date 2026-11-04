@@ -15,6 +15,16 @@ Prior to joining TCNJ, I worked at Penn State University, School of Labor and Em
 Below are research projects that I am working on (click to display abstracts). For completed projects, please see the [**Publications**](https://rakoon.github.io/publications/) tab.
 
 ## 1. Strategic and International HRM
+
+### From Lateness to Leaving: Distinct Withdrawal Profiles and Transitions Predict Turnover
+with Yea Hee Ko
+<details>
+	<summary>Abstract</summary>
+
+Research on employee withdrawal links lateness and absence to turnover, but these associations do not specify the recurring combinations of attendance behaviors employees exhibit or how maintaining and changing these combinations relate to turnover. Using seven years of daily attendance records from a concrete factory in Thailand, we identified withdrawal profiles with a mixture model built for sparse count data. A profile characterized by frequent brief absences is associated with an elevated turnover hazard, with a similar effect size estimate to that of a profile combining heavy absence and lateness. Both escalation and stable withdrawal are associated with higher turnover hazards than consistently low withdrawal, but their difference is not statistically significant. The estimate for de-escalation does not differ significantly from consistently low withdrawal. These findings characterize the attendance patterns associated with turnover and suggest that recurring withdrawal warrants attention alongside recent deterioration in attendance.
+
+ </details>
+
 ### Temporal Patterns of Collective Voluntary Turnover Surrounding Bonus Payments
 <details>
 	<summary>Abstract</summary>
