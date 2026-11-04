@@ -54,13 +54,3 @@ with Elaine Farndale
 ### Talent Dispersion within Teams
 with Tiffany Trzebiatowski and Charlie Trevor
 - Given limited resources, should you build a team with a star employee surrounded by less capable teammates or a team of moderately capable members?
-
-## 3. Research Methods
-### Mediation Research: Drawing Valid and Complete Inferences
-with Jasmine Feng, Mevan Jayasinghe, and Barry Gerhart
-<details>
-	<summary>Abstract</summary>
-
-Mediation research is indispensable in drawing valid causal inferences and thus in providing a sound basis for policy decisions pertaining to personnel psychology and beyond. However, our comprehensive review shows that current mediation research has serious deficiencies that frequently result in incomplete, or worse, invalid conclusions and policy recommendations. The most fundamental problem in mediation research is the prevalent exclusive focus on the indirect effect (and its statistical significance), while ignoring the direct and/or total effect. This problem is most serious when mediation is inconsistent (the sign of the direct effect is opposite to that of the indirect effect), which we find is common (but almost always ignored), occurring in about one-quarter of mediation studies. Focusing only on the indirect effect is especially problematic in inconsistent mediation when the direct effect is larger than the indirect effect, resulting in the total effect and indirect effect having opposite signs. Even when mediation is consistent, a sole focus on the indirect effect fails to satisfy a fundamental effect size requirement unique to mediation research: the need to quantify the size of the indirect effect relative to the size of the total effect. We provide a set of recommendations to address these concerns and to improve mediation research going forward. One key recommendation is to report PM, as well as a form of PM, Absolute PM, that has been largely overlooked, but which our analyses demonstrate has crucial advantages (smaller sampling variability, robustness to inconsistent mediation) over the use of PM alone.
-
- </details>
