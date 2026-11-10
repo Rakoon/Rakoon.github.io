@@ -58,7 +58,7 @@ Yet, there is some sentiment that a high-turnover environment is problematic for
 with Elaine Farndale
 
 - This site contains meta-data information of various databases used in IHRM research.
-- https://sites.psu.edu/ihrmdb/
+- [https://sites.psu.edu/ihrmdb/](https://sites.psu.edu/ihrmdb/)
 
 ## 2. Team Effectiveness
 ### Talent Dispersion within Teams
